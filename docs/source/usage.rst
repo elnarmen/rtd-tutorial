@@ -1,5 +1,5 @@
-Usage
-=====
+Usage (new version)
+=================
 
 .. _installation:
 
